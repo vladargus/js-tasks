@@ -1,5 +1,0 @@
-alert('Язык программирования JavaScript разработал Брендан Эйх')
-alert('Разработан за 10 дней')
-alert('Появился в 1995 году')
-alert('JavaScript - это не Java')
-alert('ECMAScript')
