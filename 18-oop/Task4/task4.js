@@ -24,9 +24,6 @@ class Dictionary {
 }
 
 class HardWordsDictionary extends Dictionary {
-  constructor() {
-    super()
-  }
   add(word, description) {
     const newWord = {}
     newWord['word'] = word
