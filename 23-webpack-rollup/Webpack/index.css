@@ -1,0 +1,20 @@
+body {
+  background-color: #323330;
+  color: #f0db4f;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.header {
+  margin: 3%;
+}
+
+.my-image {
+  margin: 0 3%;
+  width: 300px;
+  height: 300px;
+  border-radius: 5%;
+}
